@@ -11,3 +11,5 @@
 
 //grit is understanding that u can improve not by ur intelligence but by learning
 /*soln create a learning formula and find motivation for this prog*\
+//
+//

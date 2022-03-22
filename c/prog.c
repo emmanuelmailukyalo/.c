@@ -11,5 +11,10 @@
 
 //grit is understanding that u can improve not by ur intelligence but by learning
 /*soln create a learning formula and find motivation for this prog*\
-//
-//
+//learning formula
+//1 hr learning daily 
+
+
+//motivation
+/* global leader in tech
+*sper head ur career*/

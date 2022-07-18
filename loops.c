@@ -19,8 +19,4 @@ while (i<5)
     printf("\n");
     i++;
 }
-    
-}
 
-return 0;
-}
